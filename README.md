@@ -6,4 +6,4 @@ This repository contains the following Jupyter notebooks written in Python, whic
 * Transport Equation 1D: linear advection equation with constant or space-dependent coefficients on bounded intervals with periodic boundary conditions; also plots the characteristic curves
 * Wave Equation 1D and 2D: linear wave equation on intervals or squares with Dirichlet, Neumann,  or periodic boundary conditions.
 
-These notebooks require ipywidgets, math, matplotlib, numpy, and scipy.
+These notebooks run on a JupyterLab (which can be installed using, for instance, [Anaconda](https://www.anaconda.com)) with a Python 3 kernel. The notebooks require the modules ipywidgets, math, matplotlib, numpy, and scipy. If IPython is used, replace `%matplotlib widget` with `%matplotlib notebook` in each notebook.
