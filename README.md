@@ -6,7 +6,7 @@ This repository contains the following Jupyter notebooks written in Python, whic
 * **Transport Equation 1D:** linear advection equation with constant or space-dependent coefficients on bounded intervals with periodic boundary conditions; also plots the characteristic curves
 * **Wave Equation 1D and 2D:** linear wave equation on intervals or squares with Dirichlet, Neumann,  or periodic boundary conditions.
 
-If you would like to run these notebooks in your webbrowser using Binder, click on the badge below. It may take time for Binder to start the Jupyterlab, and the notebooks may also run significantly slower than when ran locally.
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sandstede-lab-teaching/Applications_PDEs.git/main?urlpath=lab)
+If you would like to run these notebooks in your webbrowser using Binder, click on the badge below. It may take time for Binder to start, and the notebooks may also run significantly slower than when ran locally.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sandstede-lab-teaching/Applications_PDEs.git/main)
 
 Alternatively, install a JupyterLab with a Python 3 kernel locally using, for instance, [Anaconda](https://www.anaconda.com)). If the command `%matplotlib widget` results in an error, replace it with `%matplotlib notebook`.
