@@ -9,4 +9,4 @@ This repository contains the following Jupyter notebooks written in Python, whic
 If you would like to run these notebooks in your webbrowser using Binder, click on the badge below. It may take time for Binder to start, and the notebooks may also run significantly slower than when ran locally.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sandstede-lab-teaching/Applications_PDEs.git/main)
 
-Alternatively, install a JupyterLab with a Python 3 kernel locally using, for instance, [Anaconda](https://www.anaconda.com)). If the command `%matplotlib widget` results in an error, replace it with `%matplotlib notebook`.
+Alternatively, install a JupyterLab with a Python 3 kernel locally using, for instance, [Anaconda](https://www.anaconda.com). If the command `%matplotlib widget` results in an error, replace it with `%matplotlib notebook`.
